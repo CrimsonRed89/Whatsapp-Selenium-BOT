@@ -9,7 +9,6 @@ This project is a basic WhatsApp bot implemented using Python and Selenium. The 
 ## Current Limitations
 ### Manual QR Code Scanning: You need to scan the WhatsApp Web QR code and log in manually each time you run the bot. This will be improved in future updates with user data persistence.
 ### Basic Structure: The bot is currently a simple implementation and may require modifications to suit more complex use cases.
-Getting Started
 
 ##Prerequisites
 Python 3.x
